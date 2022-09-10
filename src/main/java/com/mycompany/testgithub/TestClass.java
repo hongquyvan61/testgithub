@@ -10,5 +10,5 @@ package com.mycompany.testgithub;
  * @author Admin
  */
 public class TestClass {
-    string str="";
+    String str="";
 }
